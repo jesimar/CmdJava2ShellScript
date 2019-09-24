@@ -29,9 +29,11 @@ OBS: em que x, y são valores double e n é um valor inteiro.
 
 ## As seguintes **constantes** estão disponíveis: 
 
-* PI [PI -c 5]
-* E  [E -c 4] 
-* PHI [PHI -c 6]
+* PI -> Exemplo: PI -c 5
+* E  -> Exemplo: E -c 4 
+* PHI -> Exemplo: PHI -c 6 
+
+OBS: a opção -c é opcional e indica a quantidade de casas decimais desejadas.
 
 Alguns outros comandos possíveis são: 
 
